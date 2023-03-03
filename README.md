@@ -4,7 +4,7 @@ Personal use ArchLinux package repository
 
 ### Usage
 
-Add following mirror source to `/etc/pacman.conf`
+Add following entry to `/etc/pacman.conf`
 
 ```conf
 [sakari-aur]
